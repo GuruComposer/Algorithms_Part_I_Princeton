@@ -17,11 +17,11 @@ time-space-complexity tests.
 
 Assignment | Name | Score
 :--- | :--- | ---
-Assignment 1 | [Percolation] | 97/100
-Assignment 2 | [Queues] | 100/100
-Assignment 3 | [Collinear] | 97/100
-Assignment 4 | [8 Puzzle] | 95/100
-Assignment 5 | [Kd-Trees] | 84/100
+Assignment 1 | Percolation | 97/100
+Assignment 2 | Queues | 100/100
+Assignment 3 | Collinear | 97/100
+Assignment 4 | 8 Puzzle | 95/100
+Assignment 5 | Kd-Trees | 84/100
 
 Thank you for reviewing my algorithms.
 
